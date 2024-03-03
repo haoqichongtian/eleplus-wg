@@ -1,0 +1,6 @@
+import '@wg-plus/components/base/style/css'
+import '@wg-plus/components/input/style/css'
+import '@wg-plus/components/button/style/css'
+import '@wg-plus/components/checkbox/style/css'
+import '@wg-plus/components/checkbox-group/style/css'
+import '@wg-plus/theme-chalk/el-transfer.css'

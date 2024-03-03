@@ -1,0 +1,6 @@
+import '@wg-plus/components/base/style'
+import '@wg-plus/theme-chalk/src/container.scss'
+import '@wg-plus/theme-chalk/src/aside.scss'
+import '@wg-plus/theme-chalk/src/footer.scss'
+import '@wg-plus/theme-chalk/src/header.scss'
+import '@wg-plus/theme-chalk/src/main.scss'
